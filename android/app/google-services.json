@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094207049781",
+    "project_id": "news-4c749",
+    "storage_bucket": "news-4c749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094207049781:android:50a8cee4158adfc977217c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094207049781-0ilalkm7b42qi2arh9qf571n9his8e2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sNvCSZZJpYUVWnPWPMtGGbzLZFkmiz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094207049781-0ilalkm7b42qi2arh9qf571n9his8e2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
